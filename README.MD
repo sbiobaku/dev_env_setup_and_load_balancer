@@ -1,4 +1,4 @@
-# LOAD Balancing 
+# Load balancer and development environment setup
 https://www.youtube.com/watch?v=42Q65H8ch7U
 
 https://www.youtube.com/watch?v=0H2miBK_gAk
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0H2miBK_gAk
     docker-compose down
     
     docker-compose up -d --build --scale app=3
-    
+
 Add a render_template for container ID
 
 
