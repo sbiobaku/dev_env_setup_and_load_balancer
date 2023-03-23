@@ -1,8 +1,4 @@
 # Load balancer and development environment setup
-https://www.youtube.com/watch?v=42Q65H8ch7U
-
-https://www.youtube.com/watch?v=0H2miBK_gAk
-
 # Create a venv 
     https://docs.python.org/3/library/venv.html 
 
