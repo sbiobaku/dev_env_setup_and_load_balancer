@@ -26,7 +26,7 @@ def hits():
     r.incr("hits")
     num_hits = r.get("hits").decode("utf-8")
     return num_hits
-    #return render_template("hits.html", hits="fuck you")
+    #return render_template("hits.html", hits="No hits")
 
 if __name__ == "__main__":
     app.run(debug=True)
